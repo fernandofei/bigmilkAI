@@ -1,6 +1,13 @@
 
 
 BigMilkAI is a customizable AI tool designed to process PDFs and answer questions about them. 
+To start, download setup_bigmilkai.sh:
+chmod +x setup_bigmilkai.sh
+./setup_bigmilkai.sh
+
+After that, go to the directory you selected (or $HOME/bigmilkai by default)
+./bigmilkai_manager.sh
+
 Below is the management menu available when running `./bigmilkai_manager.sh`:
 
 ### Management Menu
