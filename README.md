@@ -57,6 +57,7 @@ The installer will create the following structure:
 	│   └── web.sh
 	├── process_pdfs.py
 	└── web_interface.py
+```
 
 Contact: fernandofei [at] gmail [dot] com
 
