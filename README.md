@@ -60,4 +60,11 @@ The installer will create the following structure:
 
 Contact: fernandofei [at] gmail [dot] com
 
+Some videos with dry-run:
+
+Installation:
+https://youtu.be/s_m2yntbaSc
+
+OpenWebUI
+https://youtu.be/MWWIaMU8wKQ
 	
